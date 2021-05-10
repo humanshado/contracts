@@ -2,6 +2,10 @@
  *
  * Panda (PANDA)
  * A social token on the Binance Smart Chain.
+ *
+ * Join
+ * https://t.me/PandaBSC
+ * https://pandabsc.com
  * 
  * Fees
  * 5% distributed to liquidity pool

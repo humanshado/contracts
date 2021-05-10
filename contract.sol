@@ -9,12 +9,12 @@
  * 
  * Fees
  * 5% distributed to liquidity pool
- * 3% distributed to holders
+ * 3% distributed to token holders
  * 
  * Supply
  * 1,000,000,000,000,000 total supply
  * 50% burned on launch
- * 30% for even distribution
+ * 30% for fair distribution
  * 20% for liquidity pool
  *
  * Distribution
